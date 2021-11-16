@@ -1,0 +1,6 @@
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepository\bin\Debug\ClaimsRepository.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepository\bin\Debug\ClaimsRepository.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepository\obj\Debug\ClaimsRepository.csproj.AssemblyReference.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepository\obj\Debug\ClaimsRepository.csproj.CoreCompileInputs.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepository\obj\Debug\ClaimsRepository.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepository\obj\Debug\ClaimsRepository.pdb

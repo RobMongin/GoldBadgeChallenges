@@ -1,0 +1,15 @@
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\bin\Debug\ClaimsRepo_Tests.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\bin\Debug\ClaimsRepo_Tests.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\bin\Debug\ClaimsRepository.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\bin\Debug\ClaimsRepository.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\obj\Debug\ClaimsRepo_Tests.csproj.AssemblyReference.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\obj\Debug\ClaimsRepo_Tests.csproj.CoreCompileInputs.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\obj\Debug\ClaimsRepo_Tests.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\obj\Debug\ClaimsRepo_Tests.pdb

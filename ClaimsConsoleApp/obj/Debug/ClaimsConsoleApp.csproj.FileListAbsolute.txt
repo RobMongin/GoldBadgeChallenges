@@ -1,0 +1,7 @@
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsConsoleApp\bin\Debug\ClaimsConsoleApp.exe.config
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsConsoleApp\bin\Debug\ClaimsConsoleApp.exe
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsConsoleApp\bin\Debug\ClaimsConsoleApp.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsConsoleApp\obj\Debug\ClaimsConsoleApp.csproj.AssemblyReference.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsConsoleApp\obj\Debug\ClaimsConsoleApp.csproj.CoreCompileInputs.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsConsoleApp\obj\Debug\ClaimsConsoleApp.exe
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsConsoleApp\obj\Debug\ClaimsConsoleApp.pdb
