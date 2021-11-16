@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClaimsApp
+namespace ClaimsConsoleApp
 {
-    class Program
+    class ProgramUI
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }

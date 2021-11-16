@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A4B91688-8E75-4474-A5CE-4420ACB405B3}</ProjectGuid>
+    <ProjectGuid>{F0920974-B280-4295-826F-16B03BB51F27}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClaimsApp</RootNamespace>
-    <AssemblyName>ClaimsApp</AssemblyName>
+    <RootNamespace>ClaimsConsoleApp</RootNamespace>
+    <AssemblyName>ClaimsConsoleApp</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
