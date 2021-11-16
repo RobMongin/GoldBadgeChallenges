@@ -1,0 +1,9 @@
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeConsoleApp\bin\Debug\CafeConsoleApp.exe.config
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeConsoleApp\bin\Debug\CafeConsoleApp.exe
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeConsoleApp\bin\Debug\CafeConsoleApp.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeConsoleApp\bin\Debug\CafeRepository.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeConsoleApp\bin\Debug\CafeRepository.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeConsoleApp\obj\Debug\CafeConsoleApp.csproj.AssemblyReference.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeConsoleApp\obj\Debug\CafeConsoleApp.csproj.CoreCompileInputs.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeConsoleApp\obj\Debug\CafeConsoleApp.exe
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeConsoleApp\obj\Debug\CafeConsoleApp.pdb

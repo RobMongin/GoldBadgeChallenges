@@ -1,0 +1,15 @@
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\bin\Debug\CafeRepo_Tests.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\bin\Debug\CafeRepo_Tests.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\bin\Debug\CafeRepository.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\bin\Debug\CafeRepository.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\obj\Debug\CafeRepo_Tests.csproj.AssemblyReference.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\obj\Debug\CafeRepo_Tests.csproj.CoreCompileInputs.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\obj\Debug\CafeRepo_Tests.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\obj\Debug\CafeRepo_Tests.pdb
