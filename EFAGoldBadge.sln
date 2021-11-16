@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeRepo_Tests", "CafeRepo_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeRepository", "CafeRepository\CafeRepository.csproj", "{CB74556E-A5A9-4D94-9FF0-1EFF5B46AF87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimsApp", "ClaimsApp\ClaimsApp.csproj", "{A4B91688-8E75-4474-A5CE-4420ACB405B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{CB74556E-A5A9-4D94-9FF0-1EFF5B46AF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB74556E-A5A9-4D94-9FF0-1EFF5B46AF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB74556E-A5A9-4D94-9FF0-1EFF5B46AF87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B91688-8E75-4474-A5CE-4420ACB405B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B91688-8E75-4474-A5CE-4420ACB405B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B91688-8E75-4474-A5CE-4420ACB405B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B91688-8E75-4474-A5CE-4420ACB405B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
