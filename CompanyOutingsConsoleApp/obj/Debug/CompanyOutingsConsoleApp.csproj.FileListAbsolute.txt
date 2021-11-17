@@ -1,0 +1,7 @@
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsConsoleApp\bin\Debug\CompanyOutingsConsoleApp.exe.config
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsConsoleApp\bin\Debug\CompanyOutingsConsoleApp.exe
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsConsoleApp\bin\Debug\CompanyOutingsConsoleApp.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsConsoleApp\obj\Debug\CompanyOutingsConsoleApp.csproj.AssemblyReference.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsConsoleApp\obj\Debug\CompanyOutingsConsoleApp.csproj.CoreCompileInputs.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsConsoleApp\obj\Debug\CompanyOutingsConsoleApp.exe
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsConsoleApp\obj\Debug\CompanyOutingsConsoleApp.pdb

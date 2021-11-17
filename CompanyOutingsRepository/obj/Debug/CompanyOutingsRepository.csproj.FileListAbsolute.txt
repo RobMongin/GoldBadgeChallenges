@@ -1,0 +1,6 @@
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsRepository\bin\Debug\CompanyOutingsRepository.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsRepository\bin\Debug\CompanyOutingsRepository.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsRepository\obj\Debug\CompanyOutingsRepository.csproj.AssemblyReference.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsRepository\obj\Debug\CompanyOutingsRepository.csproj.CoreCompileInputs.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsRepository\obj\Debug\CompanyOutingsRepository.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsRepository\obj\Debug\CompanyOutingsRepository.pdb

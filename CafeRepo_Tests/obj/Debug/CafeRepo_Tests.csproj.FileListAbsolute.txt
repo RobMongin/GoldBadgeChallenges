@@ -13,4 +13,3 @@ H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\obj\Debug\CafeRep
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\obj\Debug\CafeRepo_Tests.csproj.CoreCompileInputs.cache
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\obj\Debug\CafeRepo_Tests.dll
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\obj\Debug\CafeRepo_Tests.pdb
-H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CafeRepo_Tests\obj\Debug\CafeRepo_Tests.csproj.CopyComplete

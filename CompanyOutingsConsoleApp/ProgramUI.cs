@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CompanyOutingsRepository
+namespace CompanyOutingsConsoleApp
 {
-    public class Outings
+    public class ProgramUI
     {
     }
 }

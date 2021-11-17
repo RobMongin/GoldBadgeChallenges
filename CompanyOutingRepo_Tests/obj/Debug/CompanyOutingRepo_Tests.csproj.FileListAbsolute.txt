@@ -1,0 +1,16 @@
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\bin\Debug\CompanyOutingRepo_Tests.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\bin\Debug\CompanyOutingRepo_Tests.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\obj\Debug\CompanyOutingRepo_Tests.csproj.AssemblyReference.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\obj\Debug\CompanyOutingRepo_Tests.csproj.CoreCompileInputs.cache
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\obj\Debug\CompanyOutingRepo_Tests.csproj.CopyComplete
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\obj\Debug\CompanyOutingRepo_Tests.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\obj\Debug\CompanyOutingRepo_Tests.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\bin\Debug\CompanyOutingsRepository.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\bin\Debug\CompanyOutingsRepository.pdb

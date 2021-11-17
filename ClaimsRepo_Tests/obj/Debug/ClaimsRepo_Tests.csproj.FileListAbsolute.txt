@@ -13,3 +13,4 @@ H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\obj\Debug\Claim
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\obj\Debug\ClaimsRepo_Tests.csproj.CoreCompileInputs.cache
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\obj\Debug\ClaimsRepo_Tests.dll
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\obj\Debug\ClaimsRepo_Tests.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsRepo_Tests\obj\Debug\ClaimsRepo_Tests.csproj.CopyComplete
