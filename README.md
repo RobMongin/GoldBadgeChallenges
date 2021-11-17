@@ -12,3 +12,4 @@ The application simulates what a restaurant owner might use to update their menu
 # Challenge Two: ClaimsApp
 
 This console application uses a Queue that allows users to cycle through insurance claims. User can view claims, add claim, and deal with 'next' claim.
+Claims can be stored and removed.
