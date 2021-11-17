@@ -2,7 +2,7 @@
 
 In order to progress with the Eleven Fifty program we were assigned a list of challenges and were required to complete three.
 
-Each challenge is a console application demonstrating proficiency in C#
+Each challenge is a console application demonstrating proficiency in C#, manipulating databases, and object oriented programming.
 
 # Challenge One: CafeApp
 
