@@ -29,7 +29,8 @@ namespace CompanyOutingsRepository
         {
             get
             {
-                return TotalCost / Attendees;
+                decimal total = TotalCost / Attendees;
+                return Math.Round(total, 2);
             }
         }
     }

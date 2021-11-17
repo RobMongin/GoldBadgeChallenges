@@ -9,7 +9,6 @@ H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\bin\Debu
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\obj\Debug\CompanyOutingRepo_Tests.csproj.AssemblyReference.cache
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\obj\Debug\CompanyOutingRepo_Tests.csproj.CoreCompileInputs.cache
-H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\obj\Debug\CompanyOutingRepo_Tests.csproj.CopyComplete
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\obj\Debug\CompanyOutingRepo_Tests.dll
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\obj\Debug\CompanyOutingRepo_Tests.pdb
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingRepo_Tests\bin\Debug\CompanyOutingsRepository.dll

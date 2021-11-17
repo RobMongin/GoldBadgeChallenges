@@ -136,6 +136,7 @@ namespace ClaimsConsoleApp
                 else
                 {
                     Console.WriteLine("Please enter a valid number: ");
+                    AnyKey();
                 }
             }
 
@@ -165,6 +166,7 @@ namespace ClaimsConsoleApp
                 else
                 {
                     Console.WriteLine("Please enter a valid price: ");
+                    AnyKey();
                 }
             }
 

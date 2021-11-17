@@ -5,3 +5,5 @@ H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsConsoleApp\obj\Deb
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsConsoleApp\obj\Debug\CompanyOutingsConsoleApp.csproj.CoreCompileInputs.cache
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsConsoleApp\obj\Debug\CompanyOutingsConsoleApp.exe
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsConsoleApp\obj\Debug\CompanyOutingsConsoleApp.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsConsoleApp\bin\Debug\CompanyOutingsRepository.dll
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\CompanyOutingsConsoleApp\bin\Debug\CompanyOutingsRepository.pdb

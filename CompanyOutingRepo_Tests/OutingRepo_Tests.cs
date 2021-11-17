@@ -11,13 +11,16 @@ namespace CompanyOutingRepo_Tests
     {
         //Arrange
         private Outing _outing;
+        private Outing _outing2;
         private OutingsRepo _repo;
         [TestInitialize]
         public void Arrange()
         {
-            _outing = new Outing(1, EventType.Golf, 4, new DateTime(2021, 6, 12), 212.33m);
+            _outing = new Outing(1, EventType.Golf, 4, new DateTime(2021, 06, 12), 100.00m);
+            _outing2 = new Outing(2, EventType.Golf, 4, new DateTime(2021, 07, 12), 100.00m);
             _repo = new OutingsRepo();
             _repo.AddOutingToDirectory(_outing);
+            _repo.AddOutingToDirectory(_outing2);
         }
 
         [TestMethod]
@@ -33,6 +36,20 @@ namespace CompanyOutingRepo_Tests
             List<Outing> outings = _repo.GetOutings();
             bool hasOutings = outings.Contains(_outing);
             Assert.IsTrue(hasOutings);
+        }
+
+        [TestMethod]
+        public void CostOfAllOutings_ShouldReturnTotalCost()
+        {
+            decimal total = _repo.CalculateCostOfAllOutings();
+            Assert.AreEqual(total, 200.00m);
+        }
+
+        [TestMethod]
+        public void CostOfAllOutingsByType_ShouldReturnTotal()
+        {
+            decimal total = _repo.CalculateCostByType(EventType.Golf);
+            Assert.AreEqual(total, 200.00m);
         }
     }
 }

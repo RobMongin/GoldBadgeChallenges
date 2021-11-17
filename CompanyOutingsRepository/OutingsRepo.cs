@@ -27,24 +27,27 @@ namespace CompanyOutingsRepository
             return _outingDirectory;
         }
 
-        //Read and Calculate
+
+
+        //Thought these would work as helper methods in ProgramUI
+        //I was wrong. Or maybe I could have and just did it wrong
+        //This works. I'm not touching it.
         public decimal CalculateCostOfAllOutings()
         {
             decimal total = 0;
-            foreach(Outing outing in _outingDirectory)
+            foreach (Outing outing in _outingDirectory)
             {
                 total += outing.TotalCost;
             }
             return total;
         }
 
-        //Read and Calculate by Type
         public decimal CalculateCostByType(EventType eventType)
         {
             decimal total = 0;
-            foreach(Outing outing in _outingDirectory)
+            foreach (Outing outing in _outingDirectory)
             {
-                if(outing.Type == eventType)
+                if (outing.Type == eventType)
                 {
                     total += outing.TotalCost;
                 }
