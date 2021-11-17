@@ -121,15 +121,28 @@ namespace ClaimsConsoleApp
         {
             Console.Clear();
             Claim newClaim = new Claim();
-
-            Console.WriteLine("Please Enter the claim ID: ");
-            newClaim.ClaimId = Int32.Parse(Console.ReadLine());
-            //maybe add check that user input is an int like I did in cafeApp
+            //check that user input is an int like I did in cafeApp
+            bool checkInputIsNumber = true;
+            while (checkInputIsNumber)
+            {
+                Console.WriteLine("Please Enter the claim ID: ");
+                int userInput;
+                bool isValidNumber = Int32.TryParse(Console.ReadLine(), out userInput);
+                if (isValidNumber == true)
+                {
+                    newClaim.ClaimId = userInput;
+                    checkInputIsNumber = false;
+                }
+                else
+                {
+                    Console.WriteLine("Please enter a valid number: ");
+                }
+            }
 
             Console.WriteLine("Select a claim type:\n" +
-                "1. Car\n" +
-                "2. Home\n" +
-                "3. Theft");
+            "1. Car\n" +
+            "2. Home\n" +
+            "3. Theft");
             string typeInput = Console.ReadLine();
             int typeId = int.Parse(typeInput);
             newClaim.ClaimType = (ClaimType)typeId;
@@ -137,9 +150,23 @@ namespace ClaimsConsoleApp
             Console.WriteLine("Enter a description for the Claim");
             newClaim.Description = Console.ReadLine();
 
-            Console.WriteLine("Enter the claim amount: ");
-            newClaim.ClaimAmount = decimal.Parse(Console.ReadLine());
-            //again might need a check that user inputs valid decimal
+            //again check that user inputs valid decimal 
+            bool isValidAmount = true;
+            while (isValidAmount)
+            {
+                Console.WriteLine("Enter the claim amount: ");
+                decimal inputAmount;
+                bool isValidDecimal = decimal.TryParse(Console.ReadLine(), out inputAmount);
+                if (isValidDecimal == true)
+                {
+                    newClaim.ClaimAmount = inputAmount;
+                    isValidAmount = false;
+                }
+                else
+                {
+                    Console.WriteLine("Please enter a valid price: ");
+                }
+            }
 
             Console.WriteLine("Enter date of the incident (yyyy, mm, dd):");
             newClaim.DateOfIncident = Convert.ToDateTime(Console.ReadLine());

@@ -7,3 +7,4 @@ H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsConsoleApp\obj\Debug\Claim
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsConsoleApp\obj\Debug\ClaimsConsoleApp.pdb
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsConsoleApp\bin\Debug\ClaimsRepository.dll
 H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsConsoleApp\bin\Debug\ClaimsRepository.pdb
+H:\ElevenFiftyProjects\Assignments\EFAGoldBadge\ClaimsConsoleApp\obj\Debug\ClaimsConsoleApp.csproj.CopyComplete
