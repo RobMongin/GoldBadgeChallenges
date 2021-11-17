@@ -50,10 +50,10 @@ namespace CafeConsoleApp
                         break;
                     default:
                         Console.WriteLine("Please enter a valid number");
+                        Console.ReadLine();
                         break;
 
                 }
-                Console.Clear();
             }
         }
 
