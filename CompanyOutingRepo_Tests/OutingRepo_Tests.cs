@@ -39,6 +39,20 @@ namespace CompanyOutingRepo_Tests
         }
 
         [TestMethod]
+        public void GetOutingByID_ShouldReturnCorrectOuting()
+        {
+            Outing foundOuting = _repo.GetOutingById(1);
+            Assert.AreEqual(_outing, foundOuting);
+        }
+
+        [TestMethod]
+        public void UpdateOuting_ShouldReturnTrue()
+        {
+            bool updateResult = _repo.UpdateOuting(1, _outing);
+            Assert.IsTrue(updateResult);
+        }
+
+        [TestMethod]
         public void CostOfAllOutings_ShouldReturnTotalCost()
         {
             decimal total = _repo.CalculateCostOfAllOutings();

@@ -27,6 +27,35 @@ namespace CompanyOutingsRepository
             return _outingDirectory;
         }
 
+        //Get Outing by ID
+        public Outing GetOutingById(int outingId)
+        {
+            foreach(Outing outing in _outingDirectory)
+            {
+                if(outing.OutingId == outingId)
+                {
+                    return outing;
+                }
+            }
+            return null;
+        }
+
+        //update
+        public bool UpdateOuting(int originalId, Outing outing )
+        {
+            Outing oldOuting = GetOutingById(originalId);
+            if (oldOuting != null)
+            {
+                oldOuting.OutingId = outing.OutingId;
+                oldOuting.Type = outing.Type;
+                oldOuting.Attendees = outing.Attendees;
+                oldOuting.Date = outing.Date;
+                oldOuting.TotalCost = outing.TotalCost;
+                return true;
+            }
+            else
+                return false;
+        }
 
 
         //Thought these would work as helper methods in ProgramUI

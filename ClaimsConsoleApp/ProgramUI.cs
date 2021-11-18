@@ -195,18 +195,6 @@ namespace ClaimsConsoleApp
         //Helper Methods
         private void DisplayContent(Claim claim)
         {
-            /*DataTable dt = new DataTable();
-
-            dt.Columns.Add("Claim ID");
-            dt.Columns.Add("Type");
-            dt.Columns.Add("Description");
-            dt.Columns.Add("Amount");
-            dt.Columns.Add("Date Of Accident");
-            dt.Columns.Add("Date of Claim");
-            dt.Columns.Add("Is Valid");
-
-            dt.Rows.Add(claim.ClaimId, claim.ClaimType, claim.Description, claim.ClaimAmount, claim.DateOfIncident, claim.DateOfClaim, claim.IsValid);*/
-
             Console.WriteLine($"Claim ID: {claim.ClaimId}\n" +
                 $"Claim Type: {claim.ClaimType}\n" +
                 $"Description: {claim.Description}\n" +
@@ -215,6 +203,7 @@ namespace ClaimsConsoleApp
                 $"Date of Claim: {claim.DateOfClaim}\n" +
                 $"Claim Valid: {claim.IsValid}");
         }
+
         private void AnyKey()
         {
             Console.WriteLine("Press any key to continue....");
